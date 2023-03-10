@@ -1,0 +1,22 @@
+{
+    "name": "Tonkey Command Parser",
+    "keywords": "command,parser,Arduino,ESP32,STM32,microcontroller",
+    "description": "A tiny command parser for Arduino, ESP32, STM32 and other microcontrollers.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/gbox3d/tonkey.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Atholf Lee",
+            "email": "gbox3d@gmail.com",
+            "url": "",
+            "maintainer": true
+        }
+    ],
+    "version": "1.0.0",
+    "frameworks": "Arduino",
+    "platforms": "*"
+}

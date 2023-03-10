@@ -1,5 +1,5 @@
 {
-    "name": "Tonkey Command Parser",
+    "name": "tonkey",
     "keywords": "command,parser,Arduino,ESP32,STM32,microcontroller",
     "description": "A tiny command parser for Arduino, ESP32, STM32 and other microcontrollers.",
     "repository":
